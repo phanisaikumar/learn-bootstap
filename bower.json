@@ -1,0 +1,20 @@
+{
+  "name": "bootstap-examples",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Phani Sai Kumar Narikalapa"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/ndurgaprasad/bootstap-examples",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
